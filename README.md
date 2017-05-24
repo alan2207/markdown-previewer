@@ -5,6 +5,6 @@
 * Markdown is being transformed using markdown parser called [marked](https://github.com/chjj/marked).
 
 
-### The user can enter markdown content in the textarea to the left, and it will be automatically transformed into HTML which will be properly rendered on the page.
+ The user can enter markdown content in the textarea to the left, and it will be automatically transformed into HTML which will be properly rendered on the page.
 
-### The app can be tested here:  [Live Demo](https://alan2207.github.io/markdown-previewer/)
+ The app can be tested here:  [Live Demo](https://alan2207.github.io/markdown-previewer/)
